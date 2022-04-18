@@ -36,3 +36,30 @@ i{
     
     color:black;
 }
+h2{
+    
+    margin: 80px 40px auto;
+    padding-top: 80px;
+    
+}
+footer{
+    width: 100%;
+    
+    position: absolute;  
+}
+h3{
+    
+    
+        margin: 80px 40px auto;
+        
+    
+}
+p{
+    margin-left: 40px;
+}
+img{
+    padding-top: 20px;
+}
+#meal_image{
+    margin-left: 50px;
+}
